@@ -1,0 +1,354 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" rel="stylesheet" />
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,800&display=swap" rel="stylesheet" />
+	<title>PSD TO HTML</title>
+	<meta content="__meta_description__" name="description">
+	<style type="text/css">.Ellipse_2_copy {
+  border-radius: 50%;
+  background-color: rgb(17, 17, 17);
+position: absolute;
+  width: 300px;
+  height: 300px;
+  z-index: 10;
+            
+}
+                .Ellipse_2 {
+  border-radius: 50%;
+  background-color: rgb(17, 17, 17);
+position: absolute;
+  width: 300px;
+  height: 300px;
+  z-index: 10;
+            
+}
+.Ellipse_2_copy_3 {
+  border-radius: 50%;
+  background-color: rgb(17, 17, 17);
+  opacity: 0.149;
+ position: relative;
+  width: 340px;
+  height: 340px;
+ 
+}
+.Ellipse_2_copy_2 {
+  border-radius: 50%;
+  background-color: rgb(17, 17, 17);
+  opacity: 0.149;
+position: absolute;
+  width: 320px;
+  height: 320px;
+  z-index: 0;
+   
+}
+
+ 
+       #s{
+    text-decoration: line-through;
+    text-decoration-color: red;
+}      
+        body{overflow-x: hidden;}
+        #normal{ font-family: 'Montserrat', sans-serif; }
+        body{text-align: center; align-content: center;}
+        section#7 p {}
+        .card .card-header {
+         background-color: #0073e6; color: white; font-size: 2rem;}
+        div.card{border: 15px; border-style: solid; border-color: white;}
+        .div.col-md-6 {}
+        #white{color: white;}
+        div#s3r2.row button{margin-top: 3%;}
+        #s1r1{ }
+        hr{border-color:df1212 }
+        #s1r2{ background-image: url(https://dev4.tailopez.com/medialib/1578539999.bf20dffecdf7e633fd2060f12f1e083f.png);  background-repeat:no-repeat; background-size:contain;    height: auto; }
+        #s4r1 { background-image: url(https://dev4.tailopez.com/medialib/1578540211.de49b0482555b33cd5abb4db50a66d54.png);  background-repeat: no-repeat; background-size:auto;}
+        @media only screen and (max-width: 770px) { #s1r2 { padding-bottom: 3%; background-image: url(https://dev4.tailopez.com/medialib/1578539999.bf20dffecdf7e633fd2060f12f1e083f.png);  background-repeat: no-repeat; background-size:cover;} #hide-a{visibility: hidden;}  button#normal.btn.btn-danger{max-width: 80%; font-size: 60%;} button#normal.btn.btn-danger{max-width: 80%; font-size: 60%;} div#s11r2.row{border: none !important;} }
+        @media only screen and (max-width:1199px){ div.Ellipse_2_copy_3{visibility: hidden;}div.Ellipse_2_copy_2{visibility: hidden;} div.Ellipse_2_copy{margin-left: 36% !important; margin-top: 0% !important;}}
+        @media only screen and (max-width:992px){  div.Ellipse_2_copy_3{visibility: hidden;}div.Ellipse_2_copy_2{visibility: hidden;} div.Ellipse_2_copy{margin-top: 0% !important;margin-left: 28% !important;}}
+        @media only screen and (max-width:770px){ div.Ellipse_2_copy_3{visibility: hidden;}div.Ellipse_2_copy_2{visibility: hidden;} div#s3r2.row {display: none !important;} div.Ellipse_2_copy p {font-size: 4% !important; } .hide{display: block !important;}}
+         @media only screen and (max-width:500px){ div.Ellipse_2_copy_3{visibility: hidden;}div.Ellipse_2_copy_2{visibility: hidden;} div#s3r2.row {display: none !important;} div.Ellipse_2 {margin-left: 17% !important; width: 80%; height: auto; } .price { font-size: 200% !important;}.hide{display: block !important;}}
+        @media only screen and (min-width:1200px){ div#s3r2.row button#normal.btn.btn-danger{width: 110%;}}
+         @media only screen and (max-width:1200px){ div#hide-small.col-md-3 p {font-size: 50%;}}
+	</style>
+</head>
+<body>
+<section id="1">
+<div class="container"><!--total of 12 sections -->
+<div class="row " id="s1r1" style="padding: 2%; align-items: center;"> 
+<div class="col-md-3" style="    text-align-last: left;" id="hide-a">
+<p id="normal" style="font-weight: 600 "><img src="https://dev4.tailopez.com/medialib/1578539999.d2aa8c5edaa3542929e79433f32a8340.png" />  support@tailopez.com</p>
+</div>
+
+<div class="col-xs-6"><p><img class="rounded mx-auto d-block" src="https://dev4.tailopez.com/medialib/1578540076.bddcf55bf785309e8f9d09e1df79c251.png" /></p></div>
+
+<div class="col-md-3 " style="    text-align-last: right;" id="hide-a">
+<p id="normal" style="font-weight: 600;"><img src="https://dev4.tailopez.com/medialib/1578540211.b196e1cbbb018b5b75f51fcb78929529.png" />  1 800 604 2587</p>
+</div>
+</div>
+</div>
+
+<div class="row" id="s1r2">
+<div class="container">
+<div class="col-md-12">
+<p class="h1" id="normal" style="font-weight: 800; padding-top: 2%; font-size: 2.5rem"><span style="color: black;">New Year 2020</span> <span id="white">Get All of My<br />
+Programs and </span><span style="color: black;"> Save $10,031</span></p>
+
+<p class="h5" id="normal" style="color: white; font-weight: 600; padding: 2%; font-size: 1.1rem; ">8 WEEKS OF LIVE CALLS AND LIFE TIME ACCESS ADDED</p>
+</div>
+
+<div class="col-md-12"><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="25" height="315" src="https://www.youtube.com/embed/WzPIxaw65BA" style="margin: auto;" width="560"></iframe></div>
+</div>
+</div>
+
+<div class="row" id="s1r3">
+<div class="col-md-12"><button class="btn btn-danger" id="normal" style=" border-radius: 35px;background-color: df1212; font-size: 120%; margin-top: 3%;font-weight: 600; border: none;" type="button">CLAIM MY 95% DISCOUNT</button>
+
+<p class="h6" id="normal" style="font-size: 80%; font-weight: 700; padding:0.7%;">*IMPORTANT: Earnings & Legal Disclaimers</p>
+</div>
+</div>
+</section>
+
+<section id="2" style="background-color:black; ">
+<div class="container">
+<div class="row " id="s2r1">
+<div class="col-md-12" style=" height: 17%; ">
+<p class="h6" id="normal" style="color: white;  padding: 4%; ">Tai is a professional internet marketer and his results are not typical. His experiences are not a guarantee you will make money. You may make more, less or the same.</p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="3" style="background-color: eeeeee; padding-bottom: 9%;">
+<div class="container">
+<div class="row" id="s3r1">
+<div class="col-md-12">
+<p class="h2" id="normal" style="color: eb0000; padding-top: 7%; font-weight: 900;">All Programs for $497</p>
+
+<p class="h6" id="normal" style="padding-top: 3%;">This is the first time I've done this. What I'm offering you today is arguably the best deal I've ever made. Here's what's up-for the next few days, I'm reducing the price of these programs by $10,031:</p>
+
+<div class="hide" style="display: none  ;">
+
+
+
+
+<ul style="list-style: none; line-height: 2%;">
+
+<hr />
+	<li>Real Estate Mentor ($697)</li>
+<hr />
+	<li>E-Commerce Blueprint ($697)</li>
+<hr />
+	<li>Cashflow 2.0 ($997)</li>
+<hr />
+	<li>Credit Mentor 3.0 ($697)</li>
+<hr />
+	<li>How to Invest ($697)</li>
+<hr />
+	<li>12 Foundations ($497)</li>
+<hr />
+	<li>Travelling CEO ($697)</li>
+<hr />
+	<li>HSMC ($497)</li>
+<hr />
+	<li>67 Steps ($67)</li>
+<hr />
+</ul>
+
+<div class="col-xl-4" style="">
+<div id="shape" style="text-align: center">
+<div class="Ellipse_2" style=" position:relative; margin-left: 23%; margin-top: 6%;">
+<p class="h4" id="normal" style=" padding-top: 10%; color: red;">FOR ALL MY<br />
+PROGRAMS</p>
+
+<p class="price" id="normal" style=" font-size: 600%; color: white;">$497</p>
+
+<p class="h6" id="normal" style=" color: white;"><span id="s">$10,722 EVERYDAY PRICE</span></p>
+</div>
+</div>
+<button class="btn btn-danger rbutton" id="normal " style=" border-radius: 35px;background-color:df1212; font-size: 100%; font-weight: 700; width: 80%; margin-top: -8%; position: absolute; z-index: 100; margin-left: -38%;" type="button">CLAIM MY 95% DISCOUNT</button></div>
+</div>
+</div>
+</div>
+
+<div class="row" id="s3r2">
+<div class="col-xl-4"><button class="btn btn-danger" id="normal" style="font-weight: 800; border-radius: 35px;background-color: white; color: black;border-color: transparent; " type="button">Social Media Marketing Agency 2.0 ($997)</button><button class="btn btn-danger" id="normal" style=" font-weight: 800;border-radius: 35px;background-color: white; color: black;border-color: transparent;" type="button">Real Estate Mentor ($697)</button><button class="btn btn-danger" id="normal" style=" font-weight: 800;border-radius: 35px;background-color: white; color: black;border-color: transparent;" type="button">E-Commerce Blueprint ($697)</button><button class="btn btn-danger" id="normal" style=" font-weight: 800;border-radius: 35px;background-color: white; color: black;border-color: transparent;" type="button">Cashflow 2.0 ($997)</button><button class="btn btn-danger" id="normal" style="font-weight: 800; border-radius: 35px;background-color: white; color: black;border-color: transparent;" type="button">Credit Mentor 3.0 ($697)</button><button class="btn btn-danger" id="normal" style="font-weight: 800; border-radius: 35px;background-color: white; color: black;border-color: transparent;" type="button">How to Invest ($697)</button><button class="btn btn-danger" id="normal" style=" font-weight: 800;border-radius: 35px;background-color: white; color: black;border-color: transparent;" type="button">12 Foundations ($497)</button><button class="btn btn-danger" id="normal" style=" font-weight: 800;border-radius: 35px;background-color: white; color: black;border-color: transparent;" type="button">Travelling CEO ($697)</button><button class="btn btn-danger" id="normal" style=" font-weight: 800;border-radius: 35px;background-color: white; color: black;border-color: transparent;" type="button">HSMC ($497)</button></div>
+
+<div class="col-xl-4" style="">
+<div id="shape" style="text-align: center">
+<div class="Ellipse_2_copy" style="margin-left: 9.5%; margin-top: 6%;">
+<p class="h4" id="normal" style=" padding-top: 10%; color: red;">FOR ALL MY<br />
+PROGRAMS</p>
+
+<p class="h1" id="normal" style=" font-size: 7rem; color: white;">$497</p>
+
+<p class="h6" id="normal" style=" color: white;"><span id="s">$10,722 EVERYDAY PRICE</span></p>
+</div>
+
+<div class="Ellipse_2_copy_2" style="margin-left: 7%; margin-top: 3%;"> </div>
+
+<div class="Ellipse_2_copy_3" style="margin-left: 5%; margin-top: 0%;"> </div>
+</div>
+<button class="btn btn-danger rbutton" id="normal " style=" border-radius: 35px;background-color:df1212; font-size: 100%; font-weight: 700; width: 80%; margin-top: -8%; position: absolute; z-index: 100; margin-left: -38%;" type="button">CLAIM MY 95% DISCOUNT</button></div>
+
+<div class="col-xl-4"><button class="btn btn-danger" id="normal" style="font-weight: 800; border-radius: 35px;background-color: white; color: black;border-color: transparent;" type="button">67 Steps ($67)</button><button class="btn btn-danger" id="normal" style="font-weight: 800; border-radius: 35px;background-color: white; color: black;border-color: transparent;" type="button">E-Commerce Agency ($497)</button><button class="btn btn-danger" id="normal" style="font-weight: 800; border-radius: 35px;background-color: white; color: black;border-color: transparent;" type="button">Digital Social Marketing Consultant($997)</button><button class="btn btn-danger" id="normal" style="font-weight: 800; border-radius: 35px;background-color: white; color: black;border-color: transparent;" type="button">5 Minute Mentor ($997)</button><button class="btn btn-danger" id="normal" style="font-weight: 800; border-radius: 35px;background-color: white; color: black;border-color: transparent;" type="button">Social Media Secrets ($497)</button><button class="btn btn-danger" id="normal" style="font-weight: 800;border-radius: 35px;background-color: white; color: black;border-color: transparent;" type="button">Funnel Agency ($497)</button><button class="btn btn-danger" id="normal" style="font-weight: 800; border-radius: 35px;background-color: white; color: black;border-color: transparent;" type="button">Trend Mentor ($697)</button><button class="btn btn-danger" id="normal" style="font-weight: 800; border-radius: 35px;background-color: white; color: black;border-color: transparent;" type="button">Bonus: Deal Making Program</button><button class="btn btn-danger" id="normal" style="font-weight: 800; border-radius: 35px;background-color: white; color: black;border-color: transparent;" type="button">Lifetime Access</button></div>
+</div>
+</div>
+</section>
+
+<section id="4" style="margin-top: 5%; text-align: center;">
+<div class="container">
+<div class="row" id="s4r1">
+<div class="col-md-6">
+<p class="h1" id="normal" style="color: white; padding-top: 30%; font-weight:800; ">400,000 + MEMBERS</p>
+
+<p class="h3" id="normal" style="color: white; font-weight:800;">JOIN THE COMMUNITY</p>
+</div>
+
+<div class="col-md-6" style="padding: 2%;">
+<div class="card" style="background-color: 0176e8; ">
+<div class="card-header" style=" background-color: 0176e8; font-weight: 800; padding-top: 5%; ">$197 PER PROGRAM</div>
+
+<div class="card-body" style="background-color: black; text-align: justify; text-align-last: center;  ">
+<p class="card-text " id="normal" style="color: white;">But what if you've already invested in one of the above? Or, how about if you're only interested in real estate? No problemo. You do NOT need to purchase all of these programs to take advantage of this sale. If you want to invest in a single program, I'm reducing the price to just $197 (a savings of $500 per program). For less than $200, you can learn about social media, ecommerce, real estate, or credit to add another stream to your income.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section id="5" style="background-color:black; margin-top: 5%;">
+<div class="container">
+<div class="row " id="s2r1">
+<div class="col-md-12" style="; ">
+<p class="h2" id="normal" style="color: white;  font-weight: 800; padding-top: 2%;padding-bottom: 2%;">WHAT YOU'LL GET ACCESS TO</p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="6" style=" padding: 3%;">
+<div class="container">
+<div class="row " id="s6r1">
+<div class="col-md-6">
+<p class="h3" id="normal" style="color: eb0000;  font-weight: 700; text-align:left;">Social Media Marketing Agency 2.0</p>
+
+<p id="normal" style="text-align: justify;">First released in 2016, this 4-month program has now helped more than 35,000 people start their own social media marketing agency. One of the most-successful students, Jaiden Gross, literally made $1.2 million within his first year. No matter if you have zero marketing experience, you'll l earn how to get small business owners to pay you $1,000 - $10,000 a month to manage their social media.</p>
+</div>
+
+<div class="col-md-6">
+<p class="h3" id="normal" style="color: eb0000;  font-weight: 700; text-align: justify; ">Real Estate Mentor</p>
+
+<p id="normal" style="text-align: justify;">Real estate is responsible for creating more millionaires than anything else. If you're thinking you need a lot of money and experience to take advantage, think again. In this program, you'll learn how to use OPM (other people's money) to start building cash flow from property investments -- even if you're starting from scratch.</p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="7" style=" background-color: eeeeee; padding:3%;">
+<div class="container">
+<div class="row " id="s7r1">
+<div class="col-md-6">
+<p class="h3" id="normal" style="color: eb0000;  font-weight: 700; text-align: left; ">Ecommerce Blueprint</p>
+
+<p id="normal" style="text-align: justify; ">2017 was the first time in history more people shopped ONLINE than offline. In my Ecommerce Blueprint, you'll learn how to get an ecommerce store running -- ASAP, so you can profit from this skyrocketing trend. In addition to that, you'll also discover how to use social media to conquer your competition and scale beyond 6-7 figures.</p>
+</div>
+
+<div class="col-md-6">
+<p class="h3" id="normal" style="color: eb0000;  font-weight: 700; text-align: left;">Social Media Marketing Agency 2.0</p>
+
+<p id="normal" style="text-align: justify;">First released in 2016, this 4-month program has now helped more than 35,000 people start their own social media marketing agency. One of the most-successful students, Jaiden Gross, literally made $1.2 million within his first year. No matter if you have zero marketing experience, you'll l earn how to get small business owners to pay you $1,000 - $10,000 a month to manage their social media.</p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="8" style=" background-color: transparent; padding: 3%">
+<div class="container">
+<div class="row " id="s8r1">
+<div class="col-md-6">
+<p class="h3" id="normal" style="color: eb0000;  font-weight: 700; text-align: left; ">Ecommerce Blueprint</p>
+
+<p id="normal" style="text-align:justify;">2017 was the first time in history more people shopped ONLINE than offline. In my Ecommerce Blueprint, you'll learn how to get an ecommerce store running -- ASAP, so you can profit from this skyrocketing trend. In addition to that, you'll also discover how to use social media to conquer your competition and scale beyond 6-7 figures.</p>
+</div>
+
+<div class="col-md-6">
+<p class="h3" id="normal" style="color: eb0000;  font-weight: 700; text-align:left;">Social Media Marketing Agency 2.0</p>
+
+<p id="normal" style="text-align: justify;">First released in 2016, this 4-month program has now helped more than 35,000 people start their own social media marketing agency. One of the most-successful students, Jaiden Gross, literally made $1.2 million within his first year. No matter if you have zero marketing experience, you'll l earn how to get small business owners to pay you $1,000 - $10,000 a month to manage their social media.</p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="9" style=" background-color: eeeeee; padding: 3%;">
+<div class="container">
+<div class="row " id="s9r1">
+<div class="col-md-6">
+<p class="h3" id="normal" style="color: eb0000;  font-weight: 700; text-align: left; ">Ecommerce Blueprint</p>
+
+<p id="normal" style="text-align: justify;">2017 was the first time in history more people shopped ONLINE than offline. In my Ecommerce Blueprint, you'll learn how to get an ecommerce store running -- ASAP, so you can profit from this skyrocketing trend. In addition to that, you'll also discover how to use social media to conquer your competition and scale beyond 6-7 figures.</p>
+</div>
+
+<div class="col-md-6">
+<p class="h3" id="normal" style="color: eb0000;  font-weight: 700; text-align: left;">Social Media Marketing Agency 2.0</p>
+
+<p id="normal" style="text-align: justify;">First released in 2016, this 4-month program has now helped more than 35,000 people start their own social media marketing agency. One of the most-successful students, Jaiden Gross, literally made $1.2 million within his first year. No matter if you have zero marketing experience, you'll l earn how to get small business owners to pay you $1,000 - $10,000 a month to manage their social media.</p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="10" style=" background-color: transparent; padding: 3%;">
+<div class="container">
+<div class="row " id="s10r1">
+<div class="col-md-6">
+<p class="h3" id="normal" style="color: eb0000;  font-weight: 700; text-align: left; ">Ecommerce Blueprint</p>
+
+<p id="normal" style="text-align: justify;">2017 was the first time in history more people shopped ONLINE than offline. In my Ecommerce Blueprint, you'll learn how to get an ecommerce store running -- ASAP, so you can profit from this skyrocketing trend. In addition to that, you'll also discover how to use social media to conquer your competition and scale beyond 6-7 figures.</p>
+</div>
+
+<div class="col-md-6">
+<p class="h3" id="normal" style="color: eb0000;  font-weight: 700; text-align:left;">Social Media Marketing Agency 2.0</p>
+
+<p id="normal" style="text-align: justify;">First released in 2016, this 4-month program has now helped more than 35,000 people start their own social media marketing agency. One of the most-successful students, Jaiden Gross, literally made $1.2 million within his first year. No matter if you have zero marketing experience, you'll l earn how to get small business owners to pay you $1,000 - $10,000 a month to manage their social media.</p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="11" style=" background-color:eeeeee; padding: 3%;">
+<div class="container">
+<div class="row " id="s11r1">
+<div class="col-md-12">
+<p class="h3" id="normal" style="color: eb0000;  font-weight: 700; text-align: left; ">Digital Social Marketing Consultant</p>
+
+<p id="normal" style="text-align: justify; font-weight: ">Every one of the successful businesses I've built, relies onthe SAME 2 principles: (1) catching trends and (2) stacking them. In Trend Mentor, I'll teach you how to successfully put these together. Based on the formula I've used to generate tens of millions of dollars, I'll help you find and capture the next trillion-dollar opportunity -- before the masses. The trends you'll learn about have so much potential, that even grabbing a teeny slice can turn into an extra $1k-$10k a month of income.</p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="12" style=" background-color:black; padding-top: 6%; padding-bottom: 3%;">
+<div class="container">
+<div class="row " id="s11r1">
+<div class="col-md-12" style=""><img src="https://dev4.tailopez.com/medialib/1578540076.673d945d5227aebb039139c47738e3a5.png" /></div>
+</div>
+
+<div class="row" id="s11r2" style="padding-top: 6%;">
+<div class="col-md-6 " style="border-width: 0.4px; border-color: 43494f; border-style: solid;padding: 2%;">
+<p class="h6" id="normal" style="color: white; ">EMAIL SUPPORT</p>
+
+<p class="h4" id="normal" style=" color: 1476d6 ;">support@tailopez.com</p>
+</div>
+
+<div class="col-md-6  " style="border-width: 0.4px; border-color:43494f; border-style: solid;padding: 2%;">
+<p class="h6" id="normal" style="color: white; ">CALL SUPPORT</p>
+
+<p class="h4" id="normal" style=" color: 1476d6 ;">1 800 604 2587</p>
+</div>
+</div>
+</div>
+</section>
+</body>
+</html>
